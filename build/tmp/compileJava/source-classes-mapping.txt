@@ -2,17 +2,19 @@ Jade/KeyListener.java
  Jade.KeyListener
 Main.java
  Main
-Jade/Scene.java
- Jade.Scene
-Jade/MouseListener.java
- Jade.MouseListener
-Jade/LevelScene.java
- Jade.LevelScene
-Jade/Window.java
- Jade.Window
 util/Time.java
  util.Time
-Jade/LevelEditorScene.java
- Jade.LevelEditorScene
+Jade/MouseListener.java
+ Jade.MouseListener
 renderer/Shader.java
  renderer.Shader
+Jade/LevelEditorScene.java
+ Jade.LevelEditorScene
+Jade/LevelScene.java
+ Jade.LevelScene
+Jade/Camera.java
+ Jade.Camera
+Jade/Window.java
+ Jade.Window
+Jade/Scene.java
+ Jade.Scene
